@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit-risk-classification REPORT
 
 ## Overview
 Developing a model that accurately assesses borrowers' creditworthiness is pivotal for P2P lending platforms. This model enables lenders to gauge the risk associated with lending to individual borrowers, establish suitable interest rates, and make informed decisions regarding loan approvals. By leveraging historical borrower data and various financial indicators, lenders can evaluate the likelihood of default and enhance the reliability of their lending decisions.
